@@ -7,14 +7,16 @@ Now, JP language only...sorry
 <h1>特長</h1>
 係数として、整数以外にも、小数や分数形式での入力も可能です。また、答えは整数形式のほかに、小数であれば分数形式で表示します。
 <h1>使い方</h1>
-１．SeqSolver_ver3.6.cをコンパイルしてください。
-２．係数入力用のinput.txtを用意してください。
-３．１で得られた実行可能ファイルを実行してください。
+１．SeqSolver_ver3.6.cをコンパイルしてください。<br>
+２．係数入力用のinput.txtを用意してください。<br>
+３．１で得られた実行可能ファイルを実行してください。<br>
 <h1>input.txtの入力方法</h1>
-次の3元連立一次方程式を解かせたいとします。
-係数を、以下の例のように行列形式で入力してください。
-※※※行頭に文字Fを置くことによって読み取りを終了するので、必ず最後の行に文字Fを用意してください※※※
+次の3元連立一次方程式を解かせたいとします。<br>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\left\{\begin{matrix}&space;-0.5x-\frac{2}{3}y&plus;z=1&space;\\&space;2x-0.25y=0&space;\end{matrix}\right." target="_blank"><img src="https://latex.codecogs.com/gif.latex?\left\{\begin{matrix}&space;-0.5x-\frac{2}{3}y&plus;z=1&space;\\&space;2x-0.25y=0&space;\end{matrix}\right." title="\left\{\begin{matrix} -0.5x-\frac{2}{3}y+z=1 \\ 2x-0.25y=0 \end{matrix}\right." /></a>
+係数を、以下の例のように行列形式で入力してください。<br>
+※※※行頭に文字Fを置くことによって読み取りを終了するので、必ず最後の行に文字Fを用意してください※※※<br>
 input.txt
+
 
 行頭に文字Fを置くことによって読み取りを終了するので、必ず最後の行に文字Fを用意してください。
 <h1>今後の計画</h1>
