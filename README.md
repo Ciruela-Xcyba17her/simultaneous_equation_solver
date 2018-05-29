@@ -1,6 +1,5 @@
 # simultaneous_equation_solver
 ---C-language version---<br>
-Now, JP language only...sorry
 <br>
 <h1>SeqSolverとは</h1>
 コマンドプロンプト上でn元連立一次方程式を解きます。ただし、ver.3.6時点で未知数の個数(n)は10個までと制限しています。
