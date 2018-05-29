@@ -11,13 +11,16 @@
 ３．１で得られた実行可能ファイルを実行してください。<br>
 <h1>input.txtの入力方法</h1>
 次の3元連立一次方程式を解かせたいとします。<br>
-<a href="https://www.codecogs.com/eqnedit.php?latex=\left\{\begin{matrix}&space;-0.5x-\frac{2}{3}y&plus;z=1&space;\\&space;2x-0.25y=0&space;\end{matrix}\right." target="_blank"><img src="https://latex.codecogs.com/gif.latex?\left\{\begin{matrix}&space;-0.5x-\frac{2}{3}y&plus;z=1&space;\\&space;2x-0.25y=0&space;\end{matrix}\right." title="\left\{\begin{matrix} -0.5x-\frac{2}{3}y+z=1 \\ 2x-0.25y=0 \end{matrix}\right." /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\left\{\begin{matrix}&space;-0.5x-\frac{2}{3}y&plus;z=1&space;\\&space;2x-0.25y=0&space;\end{matrix}\right." target="_blank"><img src="https://latex.codecogs.com/gif.latex?\left\{\begin{matrix}&space;-0.5x-\frac{2}{3}y&plus;z=1&space;\\&space;2x-0.25y=0&space;\end{matrix}\right." title="\left\{\begin{matrix} -0.5x-\frac{2}{3}y+z=1 \\ 2x-0.25y=0 \end{matrix}\right." /></a><br>
 係数を、以下の例のように行列形式で入力してください。<br>
 ※※※行頭に文字Fを置くことによって読み取りを終了するので、必ず最後の行に文字Fを用意してください※※※<br>
-input.txt
+入力例：input.txt<br>
+<img width="227" alt="2018-05-29 10 09 09" src="https://user-images.githubusercontent.com/38937777/40633136-b498cfea-6328-11e8-806b-3d8332f20603.png"><br>
+出力例：<br>
+<img width="352" alt="2018-05-29 10 20 06" src="https://user-images.githubusercontent.com/38937777/40633315-fa3b065c-6329-11e8-9ce7-5e89a8e45cc5.png"><br>
 
 
-行頭に文字Fを置くことによって読み取りを終了するので、必ず最後の行に文字Fを用意してください。
+
 <h1>今後の計画</h1>
 <ul>
   <li>エラーを例外処理形式に変更する</li>
